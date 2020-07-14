@@ -283,7 +283,7 @@
         height: 600px !important;
     }
     .introduction .inner {
-        margin: 38% 0 0 0
+        margin: 15% 0 0 0
     }
 
     .experience-details .col-3, .education-con .col-3 {
@@ -623,10 +623,19 @@
         margin: 10%;
     }
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 767px) {
+    .introduction h2 {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 16px;
+    }
+    .introduction .owl-theme .owl-controls {
+        bottom: -6px;
+        z-index: 11;
+    }
     .introduction .inner {
         margin: 0 0 0 0;
-        padding-top: 130px !important;
+        padding-top: 75px !important;
         width: 86%;
     }
 }
