@@ -498,8 +498,6 @@ h5 {
     -ms-transition: background 0.3s linear;
     transition: background 0.3s linear;
 }
-.content-active {
-}
 .content:hover .jspVerticalBar, .menu nav:hover .jspVerticalBar {
     opacity: 1;
 }
@@ -645,8 +643,7 @@ a.totop-link {
 /* ==========================================================================
    #Skills Screen
    ========================================================================== */
-.skills {
-}
+
 .skill-list ul {
     margin: 0;
     padding: 0
@@ -848,9 +845,6 @@ a.totop-link {
 /* ==========================================================================
    #Contact Screen
    ========================================================================== */
-
-.contact-details {
-}
 .contact-details i {
     font-size: 45px;
     color: #2463eb
@@ -906,8 +900,6 @@ a.totop-link {
 }
 .contact-social i:hover {
     color: #000;
-}
-.contact-form {
 }
 .contact-form h3 {
     font-size: 28px;
