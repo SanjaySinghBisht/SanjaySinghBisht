@@ -57,11 +57,11 @@ a:hover {
 }
 ::selection {
     color: #000;
-    background: none repeat scroll 0 0 #ffb400;
+    background: none repeat scroll 0 0 #2463eb;
 }
 ::-moz-selection {
     color:#000;
-    background: none repeat scroll 0 0 #ffb400;
+    background: none repeat scroll 0 0 #2463eb;
 }
 * {
     outline: 0!important;
@@ -116,7 +116,7 @@ input[type="text"], textarea {
     -webkit-user-select: text;
 }
 input[type="submit"] {
-    border: 2px solid #ffb400;
+    border: 2px solid #2463eb;
     background-color: transparent;
     color: #a6a6a6;
     font-weight: 400;
@@ -135,10 +135,10 @@ input[type="submit"] {
 input[type="text"]:focus, textarea:focus {
     outline: none;
     color: #545454;
-    border: 1px solid #ffb400;
+    border: 1px solid #2463eb;
 }
 input[type="submit"]:hover {
-    background-color: #ffb400;
+    background-color: #2463eb;
     color: #fff;
 }
 input[type="text"], input[type="email"], input[type="search"], input[type="password"], textarea, input[type="submit"], input[type="button"] {
@@ -174,7 +174,7 @@ h1 {
     font-size: 38px;
 }
 h2 {
-    font-size: 45px;
+    font-size: 32px;
     margin: 0;
     line-height: 45px;
 }
@@ -186,7 +186,7 @@ h3 {
     margin: 50px 0 10px;
 }
 h4 {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 100;
     line-height: 30px;
     margin: 0;
@@ -197,8 +197,8 @@ h5 {
 .title-divider {
     width: 70px;
     height: 5px;
-    background-color: #ffb400;
-    margin: 30px 0 50px 0
+    background-color: #2463eb;
+    margin: 10px 0
 }
 .full-divider {
     width: 100%;
@@ -211,10 +211,10 @@ h5 {
     background-color: #f7f7f7
 }
 .white-bg {
-    background-color: #FFFFF
+    background-color: #FFFFFF
 }
 .button {
-    border: 2px solid #ffb400;
+    border: 2px solid #2463eb;
     background-color: #FFF;
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
@@ -231,8 +231,8 @@ h5 {
     -o-transition-duration: .2s;
 }
 .button:hover {
-    border: 2px solid #ffb400;
-    background-color: #ffb400;
+    border: 2px solid #2463eb;
+    background-color: #2463eb;
     color: #fff;
 }
 /* ==========================================================================
@@ -411,11 +411,11 @@ h5 {
     -o-transition-duration: .2s;
 }
 .menu nav a span.active {
-    color: #ffb400;
+    color: #2463eb;
     font-weight: 400
 }
 .menu nav a:hover {
-    color: #ffb400;
+    color: #2463eb;
     text-decoration: none;
 }
 .menu nav a span:nth-child(2) {
@@ -737,7 +737,7 @@ a.totop-link {
     font-weight: 400;
     letter-spacing: -1px;
     margin: 21px 0 0 0;
-    color: #ffb400;
+    color: #2463eb;
 }
 .percent:after {
     content: '%';
@@ -766,7 +766,7 @@ a.totop-link {
 
 .experience-con .icon-block i {
     font-size: 60px;
-    color: #ffb400;
+    color: #2463eb;
     margin: 8px 0 0
 }
 .experience-con h5 {
@@ -808,7 +808,7 @@ a.totop-link {
    ========================================================================== */
 .education-con .icon-block i {
     font-size: 60px;
-    color: #ffb400;
+    color: #2463eb;
     margin: 8px 0 0
 }
 .education-con h5 {
@@ -853,7 +853,7 @@ a.totop-link {
 }
 .contact-details i {
     font-size: 45px;
-    color: #ffb400
+    color: #2463eb
 }
 .contact-details strong {
     color: #000;
@@ -937,7 +937,7 @@ a.totop-link {
     border-top: 1px solid #333333;
     border-bottom: 1px solid #333333;
     padding: 10px 0;
-    color: #ffb400;
+    color: #2463eb;
     font-weight: normal;
 }
 .introduction-end-con .rotate {
@@ -1103,7 +1103,7 @@ iframe, embed, object {
     font-weight: 600
 }
 .calendar a {
-    border-bottom: 2px solid #ffb400;
+    border-bottom: 2px solid #2463eb;
     font-weight: 600
 }
 .tagcloud {
