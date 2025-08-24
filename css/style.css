@@ -57,11 +57,11 @@ a:hover {
 }
 ::selection {
     color: #000;
-    background: none repeat scroll 0 0 #2463eb;
+    background: none repeat scroll 0 0 #47d7ac;
 }
 ::-moz-selection {
     color:#000;
-    background: none repeat scroll 0 0 #2463eb;
+    background: none repeat scroll 0 0 #47d7ac;
 }
 * {
     outline: 0!important;
@@ -116,7 +116,7 @@ input[type="text"], textarea {
     -webkit-user-select: text;
 }
 input[type="submit"] {
-    border: 2px solid #2463eb;
+    border: 2px solid #47d7ac;
     background-color: transparent;
     color: #a6a6a6;
     font-weight: 400;
@@ -135,10 +135,10 @@ input[type="submit"] {
 input[type="text"]:focus, textarea:focus {
     outline: none;
     color: #545454;
-    border: 1px solid #2463eb;
+    border: 1px solid #47d7ac;
 }
 input[type="submit"]:hover {
-    background-color: #2463eb;
+    background-color: #47d7ac;
     color: #fff;
 }
 input[type="text"], input[type="email"], input[type="search"], input[type="password"], textarea, input[type="submit"], input[type="button"] {
@@ -197,7 +197,7 @@ h5 {
 .title-divider {
     width: 70px;
     height: 5px;
-    background-color: #2463eb;
+    background-color: #47d7ac;
     margin: 10px 0
 }
 .full-divider {
@@ -214,7 +214,7 @@ h5 {
     background-color: #FFFFFF
 }
 .button {
-    border: 2px solid #2463eb;
+    border: 2px solid #47d7ac;
     background-color: #FFF;
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
@@ -231,8 +231,8 @@ h5 {
     -o-transition-duration: .2s;
 }
 .button:hover {
-    border: 2px solid #2463eb;
-    background-color: #2463eb;
+    border: 2px solid #47d7ac;
+    background-color: #47d7ac;
     color: #fff;
 }
 /* ==========================================================================
@@ -411,11 +411,11 @@ h5 {
     -o-transition-duration: .2s;
 }
 .menu nav a span.active {
-    color: #2463eb;
+    color: #47d7ac;
     font-weight: 400
 }
 .menu nav a:hover {
-    color: #2463eb;
+    color: #47d7ac;
     text-decoration: none;
 }
 .menu nav a span:nth-child(2) {
@@ -734,7 +734,7 @@ a.totop-link {
     font-weight: 400;
     letter-spacing: -1px;
     margin: 21px 0 0 0;
-    color: #2463eb;
+    color: #47d7ac;
 }
 .percent:after {
     content: '%';
@@ -763,7 +763,7 @@ a.totop-link {
 
 .experience-con .icon-block i {
     font-size: 60px;
-    color: #2463eb;
+    color: #47d7ac;
     margin: 8px 0 0
 }
 .experience-con h5 {
@@ -805,7 +805,7 @@ a.totop-link {
    ========================================================================== */
 .education-con .icon-block i {
     font-size: 60px;
-    color: #2463eb;
+    color: #47d7ac;
     margin: 8px 0 0
 }
 .education-con h5 {
@@ -847,7 +847,7 @@ a.totop-link {
    ========================================================================== */
 .contact-details i {
     font-size: 45px;
-    color: #2463eb
+    color: #47d7ac
 }
 .contact-details strong {
     color: #000;
@@ -929,7 +929,7 @@ a.totop-link {
     border-top: 1px solid #333333;
     border-bottom: 1px solid #333333;
     padding: 10px 0;
-    color: #2463eb;
+    color: #47d7ac;
     font-weight: normal;
 }
 .introduction-end-con .rotate {
@@ -1095,7 +1095,7 @@ iframe, embed, object {
     font-weight: 600
 }
 .calendar a {
-    border-bottom: 2px solid #2463eb;
+    border-bottom: 2px solid #47d7ac;
     font-weight: 600
 }
 .tagcloud {

@@ -41,7 +41,7 @@
 	padding: 0 0 10px 0;
 }
 .grid-gallery figcaption span {
-	border-bottom: 3px solid #2463eb;
+	border-bottom: 3px solid #47d7ac;
 	color: #000;
 	display: block;
 	font-size: 12px;
@@ -71,7 +71,7 @@
 	opacity: 1;
 }
 .grid figcaption {
-	background-color: #2463eb;
+	background-color: #47d7ac;
 	opacity: 0;
 	position: absolute;
 	top: 0;
